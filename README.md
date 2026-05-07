@@ -1,6 +1,10 @@
 # OC-2 Theme for Zed
 
-OC-2 is a paired light and dark theme for [Zed](https://zed.dev), adapted from the OC-2 color palette.
+OC-2 is a paired light and dark theme for [Zed](https://zed.dev), adapted from the OC-2 color palette by [OpenCode](https://opencode.ai/).
+
+## Credits
+
+The original OC-2 theme and color palette were created by [OpenCode](https://opencode.ai/). This repository is an unofficial Zed editor adaptation of that palette.
 
 ## Themes
 
